@@ -17,4 +17,5 @@
 
 @property (nonatomic,copy) void(^btnActionCallBack)(BOOL states,UIButton *sender);
 
+@property (nonatomic,strong) UILabel * addLab;
 @end
